@@ -12,4 +12,4 @@ Scan a QR code on a plant label to open its dedicated page. You can also browse 
 
 ### Example
 
-- [Example Plant](plants/example-plant.md)
+- [Example Plant](/plants/example-plant)
