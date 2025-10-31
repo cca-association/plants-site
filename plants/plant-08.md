@@ -1,15 +1,12 @@
----
-title: Plant 8
----
 
-# Plant 8
+# Florida Coontie
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+- **Common name**: Florida Coontie 
+- **Scientific name**: Zamia Pumila
+- **Size**: 3x3 feet on average.
+- **Geographic location**: South Florida
+- **Culture**: Drought and cold tolerant. No specific light requirements. 
+- **Care and maintenance**: No special requierments, pull dead leaves when necessary. Fertilize in spring, summer, and fall. 
 
 ## Image
 
