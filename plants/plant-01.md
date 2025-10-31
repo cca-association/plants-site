@@ -1,8 +1,6 @@
----
-title: Bird of Paradise
----
 
-# Plant 1
+
+# Bird Of Paradise
 
 - **Common name**: Bird of Paradise 
 - **Scientific name**: Strelitzia Reginae
