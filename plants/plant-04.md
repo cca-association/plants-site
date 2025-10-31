@@ -10,6 +10,4 @@
 
 ## Image
 
-<!-- Add an image of the plant below. For example:
-![Plant 4](images/plant-04.jpg)
--->
+![Christmas Palm](images/plant-04.jpg)
