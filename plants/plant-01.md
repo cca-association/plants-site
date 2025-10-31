@@ -12,6 +12,5 @@
 
 ## Image
 
-<!-- Add an image of the plant below. For example:
-![Plant 1](images/plant-01.jpg)
--->
+![Bird of Paradise](images/plant-01.webp)
+
