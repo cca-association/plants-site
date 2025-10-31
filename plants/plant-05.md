@@ -9,7 +9,4 @@
 - **Care and maintenance**: Fertilize well once a year. Requires little moisture once established. Stands pruning and shearing well. 
 
 ## Image
-
-<!-- Add an image of the plant below. For example:
-![Plant 5](images/plant-05.jpg)
--->
+![Coco Plum](images/plant-05.webp)
