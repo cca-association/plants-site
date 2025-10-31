@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 2](images/plant-02.jpg)
 -->
+![Blue Flag Iris](images/plant-02.jpg)
