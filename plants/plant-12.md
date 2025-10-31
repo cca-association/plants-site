@@ -9,3 +9,9 @@ title: Plant 12
 - **Geographic location**:
 - **Culture**:
 - **Care and maintenance**:
+
+## Image
+
+<!-- Add an image of the plant below. For example:
+![Plant 12](images/plant-12.jpg)
+-->
