@@ -1,14 +1,12 @@
----
-title: Plant 12
----
-# Plant 12
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+# Green Island Ficus
+
+- **Common name**: Green Island Ficus
+- **Scientific name**: Ficus Microcarpa
+- **Size**: About 3 feet
+- **Geographic location**: South Florida
+- **Culture**: Drought and salt tolerant.
+- **Care and maintenance**: Full sun to partial shade. Water during dry spells, but allow to dry out between waterings. 
 
 ## Image
 
