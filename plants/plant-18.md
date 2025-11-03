@@ -1,14 +1,12 @@
----
-title: Plant 18
----
-# Plant 18
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+# Silver Palm
+
+- **Common name**: Silver Palm
+- **Scientific name**: Coccotrinax Argentata
+- **Size**: 6 to 18 feet tall
+- **Geographic location**: Mexico
+- **Culture**: Dry, sandy mix soil.
+- **Care and maintenance**: Bright light with semi dry conditions. Soil should completely dry out between waterings. 
 
 
 ## Image
