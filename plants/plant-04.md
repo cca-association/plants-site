@@ -2,7 +2,7 @@
 # Christmas Palm
 
 - **Common name**: Christmas Palm
-- **Scientific name**: Adonidia Marrillii
+- **Scientific name**: Adonidia marrillii
 - **Size**: 15-20 feet tall
 - **Geographic location**: South Florida
 - **Culture**: A tropical climate and soil that isn't soggy. Salt tolerant. Will tolerate some shade.
