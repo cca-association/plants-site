@@ -1,14 +1,12 @@
----
-title: Plant 19
----
-# Plant 19
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+# Powderpuff Mimosa 
+
+- **Common name**: Powderpuff Mimosa 
+- **Scientific name**: Mimosa Strigillosa
+- **Size**: Up to 2 feet tall
+- **Geographic location**: Native or Northeastern woodlands and streams in North America.
+- **Culture**: Full sun to partial shade. Drought tolerant. 
+- **Care and maintenance**: Tolerates periodic pruning if necessary. 
 
 
 ## Image
