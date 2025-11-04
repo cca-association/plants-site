@@ -14,3 +14,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 15](images/plant-15.jpg)
 -->
+![Live Oak](images/plant-15.jpeg)
