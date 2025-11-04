@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 9](images/plant-09.jpg)
 -->
+![Geiger Tree](images/plant-09.jpeg)
