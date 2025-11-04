@@ -14,3 +14,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 14](images/plant-14.jpg)
 -->
+![Jamaica Caper](images/plant-14.jpg)
