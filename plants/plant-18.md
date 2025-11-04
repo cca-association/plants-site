@@ -1,8 +1,8 @@
 
-# Silver Palm
+# Ponytail Palm
 
-- **Common name**: Silver Palm
-- **Scientific name**: Coccotrinax Argentata
+- **Common name**: Ponytail Palm
+- **Scientific name**: Beaucarnea recurvata 
 - **Size**: 6 to 18 feet tall
 - **Geographic location**: Mexico
 - **Culture**: Dry, sandy mix soil.
