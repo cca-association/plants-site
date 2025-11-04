@@ -1,14 +1,12 @@
----
-title: Plant 25
----
-# Plant 25
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+# Spider Lily
+
+- **Common name**: Spider Lily
+- **Scientific name**: Hymenocallis Latifolia
+- **Size**: 2 by 5 feet
+- **Geographic location**: Native to Florida coast from Melbourne to the Keys.
+- **Culture**: Sandy loam to full beach sand. Full sun with average to light moisture.
+- **Care and maintenance**: Prefer well drained, slightly alkaline soil. 
 
 ## Image
 
