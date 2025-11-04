@@ -1,14 +1,12 @@
----
-title: Plant 26
----
-# Plant 26
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+# Verawood
+
+- **Common name**: Verawood
+- **Scientific name**: Bulnesia arborea
+- **Size**: 30 by 40 feet
+- **Geographic location**: South Florida.
+- **Culture**: Drought and salt tolerant.
+- **Care and maintenance**: Full sunlight with well draining soil.
 
 ## Image
 
