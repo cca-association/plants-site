@@ -12,4 +12,5 @@
 
 <!-- Add an image of the plant below. For example:
 ![Plant 8](images/plant-08.jpg)
--->
+-
+![Florida Coontie](images/plant-08.jpg)
