@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 11](images/plant-11.jpg)
 -->
+![Green Buttonwood](images/plant-11.jpg)
