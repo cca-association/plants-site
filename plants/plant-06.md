@@ -14,3 +14,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 6](images/plant-06.jpg)
 -->
+![Dahoon Holly](images/plant-06.jpg)
