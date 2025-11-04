@@ -3,7 +3,7 @@
 # Bird Of Paradise
 
 - **Common name**: Bird of Paradise 
-- **Scientific name**: Strelitzia Reginae
+- **Scientific name**: Strelitzia reginae
 - **Size**: 3 to 5 feet tall
 - **Geographic location**: South Africa
 - **Culture**: Bird-of-paradise grows in most soils, but does best in firtile, organic soils with good drainage. 
