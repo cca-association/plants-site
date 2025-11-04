@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 10](images/plant-10.jpg)
 -->
+![Gold Trumpet](images/plant-10.jpg)
