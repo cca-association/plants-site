@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 12](images/plant-12.jpg)
 -->
+![Green Island Ficus](images/plant-12.jpg)
