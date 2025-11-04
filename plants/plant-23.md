@@ -1,14 +1,12 @@
----
-title: Plant 23
----
-# Plant 23
 
-- **Common name**:
-- **Scientific name**:
-- **Size**:
-- **Geographic location**:
-- **Culture**:
-- **Care and maintenance**:
+# Silver Palm
+
+- **Common name**: Silver Palm
+- **Scientific name**: Coccothrinax Argentata
+- **Size**: 6-10 feet
+- **Geographic location**: Florida
+- **Culture**: High salt and drought tolerance.
+- **Care and maintenance**: Average water needs. 
 
 ## Image
 
