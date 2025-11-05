@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 25](images/plant-25.jpg)
 -->
+![<Spider Lily>](images/plant-25.jpg)
