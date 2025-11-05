@@ -11,6 +11,6 @@
 ## Image
 
 <!-- Add an image of the plant below. For example:
-![Plant 7](images/plant-07.jpg)
+
 
 ![Fakahatchee Grass](images/plant-07.jpeg)>
