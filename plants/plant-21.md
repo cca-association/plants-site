@@ -2,7 +2,7 @@
 # Sand Cordgrass
 
 - **Common name**: Sand Cordgrass
-- **Scientific name**: Spartina Bakeri
+- **Scientific name**: Spartina bakeri
 - **Size**: 2-4 feet, even wider spread. 
 - **Geographic location**: From South Florida to the Carolinas. 
 - **Culture**: Full sun with drought tolerance. 
