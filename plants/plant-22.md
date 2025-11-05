@@ -2,7 +2,7 @@
 # Satin Leaf
 
 - **Common name**: Satin Leaf
-- **Scientific name**: Chrysophyllum Oliviforme
+- **Scientific name**: Chrysophyllum oliviforme
 - **Size**: 30 feet by 15-20 feet. 
 - **Geographic location**: South Florida and the West Indies. 
 - **Culture**: Moist marl to sandy loam wiht full sun.
