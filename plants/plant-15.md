@@ -2,7 +2,7 @@
 # Live Oak
 
 - **Common name**: Live Oak
-- **Scientific name**: Quercus Virginiana
+- **Scientific name**: Quercus virginiana
 - **Size**: Up to 50 feet tall.
 - **Geographic location**: Virginia to Florida, Cuba, Central America, and Louisiana Coast. 
 - **Culture**: Prefers light sandy loam, well-drained, sunny location.
