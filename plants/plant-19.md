@@ -14,3 +14,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 19](images/plant-19.jpg)
 -->
+![Powderpuff Mimosa](images/plant-19.jpg)
