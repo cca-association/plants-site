@@ -2,7 +2,7 @@
 # Muhly Grass
 
 - **Common name**: Muhly Grass
-- **Scientific name**: Muhlbergia
+- **Scientific name**: Muhlenbergia capillaris
 - **Size**: 3 to 4 feet tall
 - **Geographic location**: Native to Florida and Eastern United States.
 - **Culture**: Any soil as long as it drains well.
