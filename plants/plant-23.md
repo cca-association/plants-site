@@ -2,7 +2,7 @@
 # Silver Palm
 
 - **Common name**: Silver Palm
-- **Scientific name**: Coccothrinax Argentata
+- **Scientific name**: Coccothrinax argentata
 - **Size**: 6-10 feet
 - **Geographic location**: Florida
 - **Culture**: High salt and drought tolerance.
