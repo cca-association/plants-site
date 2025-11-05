@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 21](images/plant-21.jpg)
 -->
+![Sand Cordgrass](images/plant-21.jpg)
