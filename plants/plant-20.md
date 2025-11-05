@@ -14,3 +14,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 20](images/plant-20.jpg)
 -->
+![Pygmy Date Palm](images/plant-20.jpg)
