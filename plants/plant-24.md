@@ -1,7 +1,7 @@
 
-# Simpson Stopper
+# Simpson's Stopper
 
-- **Common name**: Simpson Stopper
+- **Common name**: Simpson's Stopper
 - **Scientific name**: Myrcianthes fragrans
 - **Size**:20-30 feet high and 15-20 feet wide. 
 - **Geographic location**: South Florida, Bahamas, Carribean, Mexico through Cental America down to Venezuela and Colombia.
@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 24](images/plant-24.jpg)
 -->
+![<Simpson's Stopper>](images/plant-24.jpg)
