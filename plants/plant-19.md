@@ -2,7 +2,7 @@
 # Powderpuff Mimosa 
 
 - **Common name**: Powderpuff Mimosa 
-- **Scientific name**: Mimosa Strigillosa
+- **Scientific name**: Mimosa strigillosa
 - **Size**: Up to 2 feet tall
 - **Geographic location**: Native or Northeastern woodlands and streams in North America.
 - **Culture**: Full sun to partial shade. Drought tolerant. 
