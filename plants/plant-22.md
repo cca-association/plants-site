@@ -13,3 +13,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 22](images/plant-22.jpg)
 -->
+1![Satin Leaf](images/plant-22.jpg)
