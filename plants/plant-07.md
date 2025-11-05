@@ -2,7 +2,7 @@
 # Fakahatchee Grass
 
 - **Common name**: Fakahatchee Grass
-- **Scientific name**: Tripsacum Dactyloides 
+- **Scientific name**: Tripsacum dactyloides 
 - **Size**: Up to 4 feet with a spread to 6 feet. 
 - **Geographic location**: Native Florida (the Keys, Everglades & Big Cypress Swamp). Low rocky pinelands in shallow soil. 
 - **Culture**: Adapt to dense and light soils and is tolerant of wet soil conditions. Sunny sites only. 
