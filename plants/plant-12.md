@@ -2,7 +2,7 @@
 # Green Island Ficus
 
 - **Common name**: Green Island Ficus
-- **Scientific name**: Ficus Microcarpa
+- **Scientific name**: Ficus microcarpa
 - **Size**: About 3 feet
 - **Geographic location**: South Florida
 - **Culture**: Drought and salt tolerant.
