@@ -2,7 +2,7 @@
 # Pygmy Date Palm
 
 - **Common name**: Pygmy Date Palm
-- **Scientific name**: Pheonix Roebelenii
+- **Scientific name**: Pheonix roebelenii
 - **Size**: 9 by 6 feet. 
 - **Geographic location**: Burma, Central and South Florida. 
 - **Culture**: Any of several fertile soils with good to moderate drainage. Requires moisture. Prefers shade or some sun.
