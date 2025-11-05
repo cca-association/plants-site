@@ -12,4 +12,4 @@
 
 <!-- Add an image of the plant below. For example:
 ![Plant 16](images/plant-16.jpg)
--->
+![Muhly Grass](images/plant-16.jpg)
