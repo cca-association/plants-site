@@ -12,4 +12,4 @@
 
 <!-- Add an image of the plant below. For example:
 ![Plant 23](images/plant-23.jpg)
--->
+-->![Silver Palm](images/plant-23.jpg)
