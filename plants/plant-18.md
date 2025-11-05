@@ -14,3 +14,4 @@
 <!-- Add an image of the plant below. For example:
 ![Plant 18](images/plant-18.jpg)
 -->
+![Ponytail Palm](images/plant-18.jpg)
